@@ -1,0 +1,10 @@
+c:\users\mochibot\documents\visual studio 2017\Projects\FormApp\FormApp\bin\Debug\FormApp.exe.config
+c:\users\mochibot\documents\visual studio 2017\Projects\FormApp\FormApp\bin\Debug\FormApp.exe
+c:\users\mochibot\documents\visual studio 2017\Projects\FormApp\FormApp\bin\Debug\FormApp.pdb
+c:\users\mochibot\documents\visual studio 2017\Projects\FormApp\FormApp\obj\Debug\FormApp.csprojResolveAssemblyReference.cache
+c:\users\mochibot\documents\visual studio 2017\Projects\FormApp\FormApp\obj\Debug\FormApp.Form1.resources
+c:\users\mochibot\documents\visual studio 2017\Projects\FormApp\FormApp\obj\Debug\FormApp.Properties.Resources.resources
+c:\users\mochibot\documents\visual studio 2017\Projects\FormApp\FormApp\obj\Debug\FormApp.csproj.GenerateResource.Cache
+c:\users\mochibot\documents\visual studio 2017\Projects\FormApp\FormApp\obj\Debug\FormApp.exe
+c:\users\mochibot\documents\visual studio 2017\Projects\FormApp\FormApp\obj\Debug\FormApp.pdb
+c:\users\mochibot\documents\visual studio 2017\Projects\FormApp\FormApp\obj\Debug\FormApp.Form2.resources
